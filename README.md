@@ -1,16 +1,20 @@
-## Hi there 👋
+# About
 
-<!--
-**alexanderthesystem/alexanderthesystem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I help businesses build custom web systems, ecommerce systems, and operational software using ASP.NET Core.
 
-Here are some ideas to get you started:
+## Core Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ASP.NET Core MVC/ Razor Pages
+- Orchard Core CMS (Built on ASP.NET Core)
+- Ecommerce Platforms
+- SQL Server
+- Azure
+- Terraform (IAC)
+- Datadog (Observability)
+
+## Available for Custom Web Systems
+
+Specializing in:
+- ASP.NET Core Development
+- Custom Business Systems
+- Ecommerce Solutions

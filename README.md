@@ -4,13 +4,15 @@ I help businesses build custom web systems, ecommerce systems, and operational s
 
 ## Core Expertise
 
-- ASP.NET Core MVC/ Razor Pages
-- Orchard Core CMS (Built on ASP.NET Core)
-- Ecommerce Platforms
+- ASP.NET Core MVC/ Razor Pages/ C#
 - SQL Server
-- Azure
+- Azure/ Azure DevOps/ Jira
+- CI/CD Github Actions
 - Terraform (IAC)
 - Datadog (Observability)
+- AI-assisted development tools like Codex
+
+## 
 
 ## Available for Custom Web Systems
 
@@ -19,4 +21,3 @@ Specializing in:
 - Custom Business Systems
 - Ecommerce Solutions
 
-[Demo](https://www.systembubble.com/store)

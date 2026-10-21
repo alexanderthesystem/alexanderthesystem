@@ -5,12 +5,14 @@ I help businesses build custom web systems, ecommerce systems, and operational s
 ## Core Expertise
 
 - ASP.NET Core MVC/ Razor Pages/ C#
+- .Net 10/9/8, .Net 4x legacy 
 - SQL Server
 - Azure/ Azure DevOps/ Jira
 - CI/CD Github Actions
 - Terraform (IAC)
 - Datadog (Observability)
 - AI-assisted development tools like Codex
+- Visual Studio 2026
 
 ## 
 

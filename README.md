@@ -38,5 +38,5 @@ With deep expertise in the Microsoft ecosystem, cloud infrastructure, and modern
 
 
 ## 📬 Contact
-- **LinkedIn:** [Linkedin](https://linkedin.com](https://www.linkedin.com/in/alexander-william-jr-a36166337/)
+- **LinkedIn:** [Linkedin](https://www.linkedin.com/in/alexander-william-jr-a36166337/)
 - **Email:** adwilliamjr@gmail.com

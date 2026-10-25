@@ -10,8 +10,6 @@ With deep expertise in the Microsoft ecosystem, cloud infrastructure, and modern
 ## 🛠️ Technical Stack
 
 ### Core Development
-![.NET](https://shields.io) ![C#](https://shields.io) ![Azure](https://shields.io) ![SQL Server](https://shields.io)
-
 - **Frameworks:** ASP.NET Core MVC, Web API, Razor Pages, ASP.NET Web Forms
 - **Ecosystem:** Modern .NET (.NET 8 through .NET 10) & Legacy .NET Framework 4.x
 - **Databases:** SQL Server, Oracle (PL/SQL)

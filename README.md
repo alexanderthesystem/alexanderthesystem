@@ -1,25 +1,38 @@
-# About
+# Alexander William Jr.
+## Senior Full Stack Web Developer
 
-I help businesses build custom web systems, ecommerce systems, and operational software using ASP.NET Core.
+I help teams and organizations build high-performance .NET web applications using ASP.NET Core and C#. As a results-oriented Senior Full Stack Web Developer, I take complete ownership of the software development lifecycle—from initial architectural concept and database design through to rigorous testing, CI/CD automation, and successful production launches. 
 
-## Core Expertise
+With deep expertise in the Microsoft ecosystem, cloud infrastructure, and modern AI integrations, I transform complex business requirements into fast, scalable, and maintainable production systems.
 
-- ASP.NET Core MVC/ Razor Pages/ C#
-- .Net 10/9/8, .Net 4x legacy 
-- SQL Server
-- Azure/ Azure DevOps/ Jira
-- CI/CD Github Actions
-- Terraform (IAC)
-- Datadog (Observability)
-- AI-assisted development tools like Codex
-- Visual Studio 2026
+---
 
-## 
+## 🛠️ Technical Stack
 
-## Available for Custom Web Systems
+### Core Development
+![.NET](https://shields.io) ![C#](https://shields.io) ![Azure](https://shields.io) ![SQL Server](https://shields.io)
 
-Specializing in:
-- ASP.NET Core Development
-- Custom Business Systems
-- Ecommerce Solutions
+- **Frameworks:** ASP.NET Core MVC, Web API, Razor Pages, ASP.NET Web Forms
+- **Ecosystem:** Modern .NET (.NET 8 through .NET 10) & Legacy .NET Framework 4.x
+- **Databases:** SQL Server, Oracle (PL/SQL)
 
+### DevOps & Infrastructure
+- **CI/CD & Cloud:** Azure DevOps, GitHub Actions, Terraform (IaC)
+- **Version Control:** Git, GitHub, Bitbucket
+
+### Architecture & Observability
+- **Monitoring & Analytics:** Datadog, Raygun
+- **Project Management:** Agile Scrum (Jira)
+
+### AI & Emerging Tech
+- **AI Engineering:** GenAI Integration (ChatGPT & Gemini APIs)
+- **AI-Assisted Dev:** GitHub Copilot, Codex
+
+### Secondary Stack
+- **Frontend & CMS:** React, OrchardCore CMS
+
+---
+
+## 📬 Let's Connect
+- **LinkedIn:** [://linkedin.com](https://linkedin.com)
+- **Email:** your.email@example.com

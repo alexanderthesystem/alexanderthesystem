@@ -5,7 +5,10 @@ I help teams and organizations build high-performance .NET web applications usin
 
 With deep expertise in the Microsoft ecosystem, cloud infrastructure, and modern AI integrations, I transform complex business requirements into fast, scalable, and maintainable production systems.
 
+
+
 ---
+
 
 ## 🛠️ Technical Stack
 
@@ -29,8 +32,11 @@ With deep expertise in the Microsoft ecosystem, cloud infrastructure, and modern
 ### Secondary Stack
 - **Frontend & CMS:** React, OrchardCore CMS
 
+
 ---
 
-## 📬 Let's Connect
-- **LinkedIn:** [://linkedin.com](https://linkedin.com)
-- **Email:** your.email@example.com
+
+
+## 📬 Contact
+- **LinkedIn:** [://linkedin.com]([https://linkedin.com](https://www.linkedin.com/in/alexander-william-jr-a36166337/))
+- **Email:** adwilliamjr@gmail.com

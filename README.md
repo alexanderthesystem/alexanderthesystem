@@ -1,5 +1,5 @@
 # Alexander William Jr.
-## Senior Full Stack Web Developer
+## Senior Full Stack Software Engineer
 
 I help teams and organizations build high-performance .NET web applications using ASP.NET Core and C#. As a results-oriented Senior Full Stack Web Developer, I take complete ownership of the software development lifecycle—from initial architectural concept and database design through to rigorous testing, CI/CD automation, and successful production launches. 
 
